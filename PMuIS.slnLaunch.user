@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MazeServerUdp\\MazeServerUdp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ClientLanucher\\ClientLanucher.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MazeServerTcp\\MazeServerTcp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
